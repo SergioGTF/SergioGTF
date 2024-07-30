@@ -46,5 +46,4 @@
 
 ### 📈 Visualizações do Perfil
 
-![Profile Views](https://github.com/views)
-
+![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioGTF&theme=dark)
