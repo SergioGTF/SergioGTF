@@ -41,3 +41,10 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGTF&layout=compact&theme=dark)
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&theme=dark)
+
+---
+
+### 📈 Visualizações do Perfil
+
+![Profile Views](https://gpvc.arturio.dev/SergioGTF)
+
