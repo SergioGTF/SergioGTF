@@ -46,5 +46,5 @@
 
 ### 📈 Visualizações do Perfil
 
-![Profile Views](https://gpvc.arturio.dev/SergioGTF)
+![Profile Views](https://github.com/views)
 
