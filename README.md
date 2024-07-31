@@ -29,6 +29,7 @@
   <img alt="Sergio-C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
   <img alt="Sergio-UIUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img alt="Sergio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Visual Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img alt="Sergio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Sergio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="Sergio-Raylib" height="30" width="40" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0">
