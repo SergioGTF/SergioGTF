@@ -47,4 +47,6 @@
 
 ### 📈 Visualizações do Perfil
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF&label=Visitantes&labelColor=%23430064&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF)
+
 ![Profile Views](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SergioGTF&theme=dark)
