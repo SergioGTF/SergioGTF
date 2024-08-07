@@ -34,7 +34,10 @@
   <img alt="Sergio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="Sergio-Raylib" height="30" width="40" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0">
   <img alt="Sergio-Allegro5" height="30" width="40" src="https://avatars.githubusercontent.com/u/7524022?s=48&v=4">
+  <img alt="Sergio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
+
+
 
 ---
 
