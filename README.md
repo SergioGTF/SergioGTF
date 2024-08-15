@@ -1,7 +1,7 @@
 ### Olá a todos! Me chamo Sergio👋
 
-- 🌱 Estudando: JavaScript, HTML, CSS, Java, C++, C#, UI/UX Design
-- ⚡ Curiosidade: Sou muito bom no Tênis de Mesa 🏓
+- 🌱 Estudando: JavaScript, HTML, CSS, C++, C#, UI/UX Design.
+- ⚡ Curiosidade: Sou muito bom no Tênis de Mesa 🏓.
 
 ---
 
@@ -36,8 +36,6 @@
   <img alt="Sergio-Allegro5" height="30" width="40" src="https://avatars.githubusercontent.com/u/7524022?s=48&v=4">
   <img alt="Sergio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
-
-
 
 ---
 
