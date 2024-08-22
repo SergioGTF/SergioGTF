@@ -1,6 +1,6 @@
 ### Olá a todos! Me chamo Sergio👋
 
-- 🌱 Estudando: JavaScript, HTML, CSS, C++, C#, UI/UX Design.
+- 🌱 Estudando: JavaScript, HTML, CSS, C++, C#, UI/UX Design, React Native.
 - ⚡ Curiosidade: Sou muito bom no Tênis de Mesa 🏓.
 
 ---
