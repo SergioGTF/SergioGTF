@@ -31,13 +31,13 @@
   <img alt="Sergio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Visual Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img alt="Sergio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Sergio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   <img alt="Sergio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="Sergio-Raylib" height="30" width="40" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0">
   <img alt="Sergio-Allegro5" height="30" width="40" src="https://avatars.githubusercontent.com/u/7524022?s=48&v=4">
   <img alt="Sergio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img alt="Bootstrap" height="30" width="40" src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" />
+  <img alt="Sergio-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 </div>
 
 ---
