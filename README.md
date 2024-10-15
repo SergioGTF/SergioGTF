@@ -1,54 +1,64 @@
-### Olá a todos! Me chamo Sergio👋
+# 👋 Olá, Eu Sou o Sergio!
 
-- 🌱 Estudando: JavaScript, HTML, CSS, C++, C#, UI/UX Design, React Native.
-- ⚡ Curiosidade: Sou muito bom no Tênis de Mesa 🏓.
+### 🎓 Desenvolvedor Full Stack 
 
----
-
-### Sobre Mim
-- Desenvolvedor com foco em back-end, desenvolvimento de jogos e desenvolvimento web.
+- 🌱 Atualmente aprendendo: **JavaScript, HTML, CSS, C++, C#, UI/UX Design, React Native**
+- 🏓 **Curiosidade:** Sou um excelente jogador de Tênis de Mesa!
 
 ---
 
-### Projetos Destacados
+## 🧑‍💻 Sobre Mim
 
-- [Projeto 1](https://github.com/SergioGTF/Site-pessoal): Site pessoal com intuito de servir como portfólio online e para auto promoção.
-- [Projeto 2](https://github.com/SergioGTF/Tech-Dungeons-2): Segundo jogo da saga Tech Dungeons.
+Sou um desenvolvedor apaixonado por **back-end**, **desenvolvimento de jogos** e **web development**. Gosto de transformar ideias em soluções práticas e criativas. Estou sempre em busca de novos desafios para crescer e aprender algo novo a cada dia.
+
+> **"A tecnologia move o mundo, e eu quero fazer parte desse movimento!"** 🚀
 
 ---
 
-### 🚀 Tecnologias que utilizo:
+## 🚀 Projetos Destacados
 
-<div style="display: flex; justify-content: space-around;">
-  <img alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Sergio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Sergio-C" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
-  <img alt="Sergio-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
-  <img alt="Sergio-C++" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-  <img alt="Sergio-C#" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img alt="Sergio-UIUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img alt="Sergio-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img alt="Visual Studio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-  <img alt="Sergio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img alt="Sergio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img alt="Sergio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img alt="Sergio-Raylib" height="30" width="40" src="https://th.bing.com/th/id/R.7c54bb1783af73666c12229682a68b19?rik=oxfzmOU4rTeJ9Q&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2ff%2ff4%2fRaylib_logo.png&ehk=CKLOco9mjDOBUVJgMps23gatd3tmsX%2b6f%2bzKEdLvt%2b4%3d&risl=&pid=ImgRaw&r=0">
-  <img alt="Sergio-Allegro5" height="30" width="40" src="https://avatars.githubusercontent.com/u/7524022?s=48&v=4">
-  <img alt="Sergio-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" />
-  <img alt="Sergio-Bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
+### 🎨 [Site Pessoal](https://github.com/SergioGTF/Site-pessoal)
+> Um portfólio online que destaca minhas habilidades e projetos, além de servir para autopromoção.
+
+### 🕹️ [Tech Dungeons 2](https://github.com/SergioGTF/Tech-Dungeons-2)
+> A segunda edição da saga de jogos Tech Dungeons, com melhorias e novos desafios.
+
+---
+
+## 🛠️ Tecnologias que Utilizo
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
+  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="C" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
+  <img alt="Java" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
+  <img alt="C++" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+  <img alt="C#" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
+  <img alt="UI/UX Design" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img alt="VSCode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img alt="Visual Studio" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
+  <img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img alt="Raylib" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Raylib_logo.png">
+  <img alt="Allegro5" height="40" width="40" src="https://avatars.githubusercontent.com/u/7524022?s=48&v=4">
+  <img alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+  <img alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+  <img alt="Bootstrap" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub:
+## 📊 Estatísticas do GitHub
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGTF&layout=compact&theme=dark)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGTF&layout=compact&theme=dark" alt="Linguagens mais usadas" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&theme=dark" alt="Estatísticas do GitHub" style="margin: 10px;"/>
+</div>
 
 ---
 
-### 📈 Visualizações do Perfil
+## 🌍 Visualizações do Perfil
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF&label=Visitantes&labelColor=%23430064&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF)
+[![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF&label=Visitantes&labelColor=%23430064&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF)
