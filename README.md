@@ -3,7 +3,7 @@
 ### 🎓 Desenvolvedor Full Stack 
 
 - 🌱 Atualmente aprendendo: **JavaScript, HTML, CSS, C++, C#, UI/UX Design, React Native**
-- 🏓 **Curiosidade:** Sou um excelente jogador de Tênis de Mesa!
+- 🏓 **Curiosidade:** Meu hobbie é jogar Tênis de Mesa!
 
 ---
 
