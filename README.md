@@ -50,14 +50,14 @@ Sou um desenvolvedor **full stack**. Gosto de transformar ideias em soluções p
 
 ### 📚 Frameworks
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img alt=".NET" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0e/.NET_Core_Logo.svg">
+  <img alt=".NET" height="40" width="40" src="https://th.bing.com/th/id/OIP.2znrrMSAR8ot1Z_9UZ67ywHaHa?rs=1&pid=ImgDetMain">
   <img alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img alt="Bootstrap" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
 </div>
 
 ### 🔌 APIs
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
-  <img alt="gitignore.io" height="40" width="40" src="https://raw.githubusercontent.com/gitignore/gitignore/master/media/gitignore-logo.png">
+  <img alt="gitignore.io" height="40" width="40" src="https://www.toptal.com/developers/gitignore/img/gitignore-logo-horizontal@2x.png">
 </div>
 
 ### 🛠️ IDEs 
