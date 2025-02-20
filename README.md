@@ -2,7 +2,7 @@
 
 ### 🎓 Desenvolvedor Full Stack 
 
-- 🌱 Atualmente aprendendo: **C++, C#, .NET, React, React Native, Typescript**
+- 🌱 Atualmente aprendendo: **React, React Native**
 - 🏓 **Curiosidade:** Meu hobbie é jogar Tênis de Mesa!
 
 ---
@@ -45,7 +45,6 @@ Sou um desenvolvedor **full stack**. Gosto de transformar ideias em soluções p
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 </div>
 
 ### 📚 Frameworks
