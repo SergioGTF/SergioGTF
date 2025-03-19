@@ -2,7 +2,7 @@
 
 ### 🎓 Desenvolvedor Full Stack 
 
-- 🌱 Atualmente aprendendo: **React, React Native**
+- 🌱 Atualmente aprendendo: **React Native**
 - 🏓 **Curiosidade:** Meu hobbie é jogar Tênis de Mesa!
 
 ---
