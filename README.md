@@ -36,7 +36,6 @@ Sou um desenvolvedor **full stack**. Gosto de transformar ideias em soluções p
   <img alt="Java" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/java-4.svg">
   <img alt="C++" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
   <img alt="C#" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
-  <img alt="Node.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img alt="C" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/c-1.svg">
 </div>
 
