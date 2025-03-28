@@ -100,6 +100,21 @@ Estudante de **Engenharia de Computação** no CESUPA com 2,5 anos de experiênc
 
 ---
 
+## 📚 **Formação Complementar**
+
+### 🎓 Cursos Relevantes
+- **Discover** (Rocketseat) – 20 horas – 2024
+- **C#** (Jornada Dev) – 40 horas – 2025
+- **Java Spring Boot** (Rocketseat) – 4 horas – 2024
+- **Informática Básica** (Visual Cursos) – 100 horas – 2016
+- **Informática Avançada** (Visual Cursos) – 100 horas – 2017
+
+### 🌍 Idiomas
+- **Português**: Nativo
+- **Inglês**: Intermediário
+
+---
+
 ## 📊 **Estatísticas GitHub**
 
 <p align="center">
