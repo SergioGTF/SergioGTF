@@ -4,8 +4,9 @@
 
 ## 🎓 **_Desenvolvedor Full Stack_** 🚀
 
-🌱 Atualmente aprendendo: **React Native**  
-🏓 **Curiosidade:** Meu hobbie é jogar Tênis de Mesa! 🏓🔥
+🌱 Atualmente aprendendo: **React Native, Spring Boot**  
+🏓 Atleta de Tênis de Mesa pelo **Paysandu Sport Clube**!  
+📍 Belém/PA 
 
 </div>
 
@@ -13,64 +14,93 @@
 
 ## 🧑‍💻 **Sobre Mim**
 
-Sou um desenvolvedor **full stack** apaixonado por transformar ideias em soluções práticas e criativas. Estou sempre em busca de novos desafios para crescer, aprender e aprimorar minhas habilidades para me destacar no mercado de trabalho.
+Estudante de **Engenharia de Computação** no CESUPA com 2,5 anos de experiência em desenvolvimento. **Gosto de criar sistemas e aplicativos**, combinando tecnologias front-end, back-end e sistemas embarcados para resolver problemas reais.
+
+**Objetivo:** Busco estágio como **Desenvolvedor Full Stack** para aplicar meus conhecimentos.
 
 ---
 
-## 🚀 **Projetos Destacados**
+## 🚀 **Experiência e Projetos**
 
-### 🎨 [Site Pessoal](https://github.com/SergioGTF/Site-pessoal)
-> 🖥️ Um portfólio online que destaca minhas habilidades e projetos, além de servir para autopromoção.
+### 💼 Freelancer Full Stack
+- **Site Práticas Educativas na Amazônia**  
+  `HTML5` `CSS3` `Bootstrap 5`  
+  Site responsivo para divulgação de práticas educacionais
 
-### 🕹️ [Tech Dungeons 2](https://github.com/SergioGTF/Tech-Dungeons-2)
-> ⚔️ A segunda edição da saga de jogos Tech Dungeons, com melhorias e novos desafios.
+- **Site Centro Amigo**  
+  `HTML5` `CSS3` `JavaScript` `Bootstrap 5`
+  Portal para organização social com foco em acessibilidade
 
----
+### 🔧 Projetos Acadêmicos
+- **Monitoramento de Cacau com Blockchain**  
+  `ESP32` `C++`  
+  Sistema de geolocalização para cultivo na Ilha de Combu
 
-## 🛠️ **Tecnologias que Utilizo**
+- **Monitor Cardíaco Bluetooth**  
+  `Arduino` `ESP32`  
+  Dispositivo para acompanhamento de sinais vitais
 
-### 💻 **Sistemas Operacionais**
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **App Gerenciador de Restaurante**  
+  `Java Swing` `MySQL`  
+  Sistema completo para controle de pedidos e estoque
 
-### 💻 **Back-End**
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 **Front-End**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 📚 **Frameworks**
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🛠️ **IDEs**
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### ⚙️ **Versionamento de Código**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎮 **Desenvolvimento de jogos**
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-![Allegro5](https://img.shields.io/badge/Allegro5-DC382D?style=for-the-badge&logo=allegro&logoColor=white)
-
-### 🎨 **Design**
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### ⚙️ **Hardware e Outros**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- **Tech Dungeons 2**  
+  `C` `Raylib`  
+  Jogo 2D com mecânicas avançadas
 
 ---
 
-## 📊 **Estatísticas do GitHub** 📈
+## 🛠️ **Tecnologias**
+
+<div align="center">
+
+### 🌐 Front-End
+<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
+<img src="https://img.shields.io/badge/CSS3-4ECDC4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Bootstrap-6A4C93?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+
+### ⚙️ Back-End
+<img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873" alt="Python">
+
+### 🔌 Hardware & Embarcados
+<img src="https://img.shields.io/badge/Assembly-8E44AD?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+
+### 🗃️ Banco de Dados
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+
+### ☁️ Cloud Computing
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+
+### 🎮 Desenvolvimento de Jogos
+<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" alt="Raylib">
+<img src="https://img.shields.io/badge/Allegro-000000?style=for-the-badge&logo=allegro&logoColor=white" alt="Allegro">
+
+### 🔄 Versionamento
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+
+### 🏗️ Metodologias Ágeis
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white" alt="Scrum">
+<img src="https://img.shields.io/badge/Kanban-2584FF?style=for-the-badge&logo=kanban&logoColor=white" alt="Kanban">
+
+### 🛠️ Ferramentas
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
+</div>
+
+---
+
+## 📊 **Estatísticas GitHub**
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGTF&layout=compact&theme=synthwave" alt="Linguagens mais usadas"/>
@@ -80,13 +110,21 @@ Sou um desenvolvedor **full stack** apaixonado por transformar ideias em soluç�
 
 ---
 
-## 🌐 **Redes Sociais** 🌍
+## 🌐 **Portfólio & Contato**
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sergiotavaresfarias/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gabriel-tavares-farias-624775268/)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🚀_Portfólio-430064?style=for-the-badge&logo=github&logoColor=white)](https://sergiogtf.github.io/Novo-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gabriel-tavares-farias-624775268/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiogabrieltf@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591992092682)
+
+</div>
 
 ---
 
-## 🌍 **Visualizações do Perfil**
+<div align="center">
 
-[![Visitantes](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF&label=Visitantes&labelColor=%23430064&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSergioGTF%2FSergioGTF&label=Visitantes&labelColor=%23430064&countColor=%23d9e3f0)
+
+</div>
