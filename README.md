@@ -59,7 +59,7 @@ Estudante de **Engenharia de Computação** no CESUPA com 2,5 anos de experiênc
 <img src="https://img.shields.io/badge/CSS3-4ECDC4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-FFD166?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Bootstrap-6A4C93?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Native">
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native Badge">
 
 ### ⚙️ Back-End
 <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -70,7 +70,7 @@ Estudante de **Engenharia de Computação** no CESUPA com 2,5 anos de experiênc
 ### 🔌 Hardware & Embarcados
 <img src="https://img.shields.io/badge/Assembly-8E44AD?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 Badge">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 
