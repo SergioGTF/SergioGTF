@@ -59,12 +59,12 @@ Tecnologias: `Next.js`, `Firebase`, `Tailwind CSS`, `Vercel`
 - Algoritmos de chaveamento e registro de resultados  
 - Arquitetura modular preparada para expansão  
 
-### 🍽️ App Gerenciador de Restaurante
-Tecnologias: `Java Swing`, `MySQL`  
+### 🍽️ App Gerenciador de Restaurante (Ideia ainda em papel)
+Tecnologias: `C#`, `MySQL`, `.Net`, `Docker`
 - Aplicação desktop para controle de pedidos e estoque  
 - Integração com banco de dados e interface gráfica intuitiva  
 
-### 🔧 Sistemas Embarcados e Hardware
+### 🔧 Sistemas Embarcados e Hardware (Acadêmico)
 - **Sistema de monitoramento geográfico com blockchain** – `ESP32`, `C++`  
 - **Robô seguidor de linha e monitor cardíaco Bluetooth** – `Arduino`, `ESP32`  
 
