@@ -173,10 +173,9 @@ Tecnologias: `C#`, `MySQL`, `.Net`, `Docker`
 ## 📊 Estatísticas GitHub
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioGTF&layout=compact" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioGTF&layout=compact&langs_count=8&hide=html,css&theme=radical&cache_seconds=1800" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" />
 </p>
-
 ---
 
 ## 🌐 Contato
