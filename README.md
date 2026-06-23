@@ -1,190 +1,212 @@
-<div align="center">
-
 # 👋 Sergio Gabriel Tavares Farias
 
-## Desenvolvedor Full Stack | Engenharia de Computação
+### Desenvolvedor Full Stack | Mobile | IoT | Estudante de Engenharia de Computação
 
-📍 Belém/PA · 🎓 CESUPA (2023 – em andamento)  
-💻 Foco em Back-End, Web e Sistemas Embarcados
+📍 Belém, Pará, Brasil
+🎓 Engenharia de Computação — CESUPA
+💻 Desenvolvimento Web, Aplicações Mobile, IoT e Soluções Digitais
 
-</div>
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou **estudante de Engenharia de Computação no CESUPA**, com mais de **3 anos de experiência prática** em desenvolvimento de software, suporte técnico e projetos acadêmicos. Atuo como **Desenvolvedor Full Stack**, com experiência em aplicações web, sistemas desktop, Progressive Web Apps (PWA) e sistemas embarcados.
-
-Possuo forte base em **back-end**, boa vivência em **front-end**, além de conhecimento em **hardware, redes básicas e sistemas operacionais (Windows e Linux)**. Tenho perfil analítico, foco em resolução de problemas e preocupação com qualidade de código, usabilidade e manutenção.
-
-🎯 **Objetivo:** Atuar como **Desenvolvedor Full Stack (Estágio ou Júnior)**, contribuindo para o desenvolvimento de soluções escaláveis e bem estruturadas.
+[![Portfólio](https://img.shields.io/badge/Portfólio-sergiogabrieltf.com.br-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://www.sergiogabrieltf.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio%20Gabriel-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sergio-gabriel-tavares-farias-624775268/)
+[![GitHub](https://img.shields.io/badge/GitHub-SergioGTF-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/SergioGTF)
 
 ---
 
-## 💼 Experiência Profissional
+## 👨‍💻 Sobre mim
 
-### Freelancer Full Stack & Suporte Técnico (2023 – 2025)
+Sou estudante de **Engenharia de Computação no CESUPA** e desenvolvedor focado na criação de aplicações web, sistemas administrativos, plataformas digitais, aplicativos mobile e projetos de Internet das Coisas.
 
-**Sites Institucionais**
-- **Práticas Educativas na Amazônia**  
-  Tecnologias: `HTML5`, `CSS3`, `Bootstrap 5`  
-  Desenvolvimento de site responsivo com foco em acessibilidade, usabilidade e compatibilidade entre dispositivos.
+Minha stack principal é baseada em **TypeScript, React, Next.js, Node.js, Firebase, Supabase, Tailwind CSS e React Native**. Desenvolvo interfaces responsivas, autenticação, controle de permissões, bancos de dados, APIs, dashboards, integrações de pagamento e soluções em tempo real.
 
-- **Centro Amigo**  
-  Tecnologias: `HTML5`, `CSS3`, `JavaScript`, `Bootstrap 5`  
-  Portal institucional para organização social, com foco em clareza da informação, estabilidade e acessibilidade.
+Também atuo com projetos de **IoT e automação**, utilizando tecnologias como **Arduino, ESP32, sensores, Bluetooth e Raspberry Pi**, além de trabalhar com deploy, configuração de serviços e integração de APIs por meio da **Vercel** e do **Google Cloud Console**.
 
-**Suporte Técnico e Infraestrutura**
-- Manutenção preventiva e corretiva de computadores e notebooks  
-- Instalação, configuração e atualização de **Windows e Linux**  
-- Configuração básica de redes locais, impressoras e compartilhamentos  
-- Suporte a usuários, diagnóstico de falhas e troubleshooting  
-- Apoio a deploy, hospedagem e monitoramento básico de aplicações web  
+Meu objetivo é atuar como Desenvolvedor Full Stack, criando produtos digitais modernos, escaláveis e úteis para empresas, instituições e comunidades.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💼 Experiência
 
-### 📱 Pará Motos (PWA – em desenvolvimento)
-Tecnologias: `React`, `JavaScript`, `Firebase`  
-- Progressive Web App para gestão de corridas de mototáxi  
-- Autenticação de usuários (passageiro, mototaxista e administrador)  
-- Integração com pagamentos (PIX / Mercado Pago)  
-- Notificações em tempo real e dashboards administrativos  
+### 🛠️ Estagiário — Espaço Maker | Instituto Gustavo Hessel
 
-### 🏓 Plataforma de Torneios de Tênis de Mesa do Pará (em desenvolvimento)
-Tecnologias: `Next.js`, `Firebase`, `Tailwind CSS`, `Vercel`  
-- Sistema completo para gestão de torneios  
-- CRUD de clubes, atletas e competições  
-- Algoritmos de chaveamento e registro de resultados  
-- Arquitetura modular preparada para expansão  
+Atuação em um ambiente voltado para inovação, inclusão digital, educação tecnológica, prototipagem e desenvolvimento de projetos maker.
 
-### 🍽️ App Gerenciador de Restaurante (Ideia ainda em papel)
-Tecnologias: `C#`, `MySQL`, `.Net`, `Docker`
-- Aplicação desktop para controle de pedidos e estoque  
-- Integração com banco de dados e interface gráfica intuitiva  
+* Apoio no desenvolvimento de projetos tecnológicos e soluções digitais;
+* Suporte a computadores, equipamentos e infraestrutura;
+* Participação em atividades com Arduino, ESP32, impressão 3D e prototipagem;
+* Desenvolvimento de projetos voltados para educação, robótica e impacto social;
+* Suporte técnico a usuários e ambientes Windows/Linux.
 
-### 🔧 Sistemas Embarcados e Hardware (Acadêmico)
-- **Sistema de monitoramento geográfico com blockchain** – `ESP32`, `C++`  
-- **Robô seguidor de linha e monitor cardíaco Bluetooth** – `Arduino`, `ESP32`  
+### 💻 Desenvolvedor Full Stack e Suporte Técnico
 
-### 🎮 Desenvolvimento de Jogos
-- **Tech Dungeons 2** – `C`, `Raylib`  
+Atuação em projetos próprios, freelas e sistemas institucionais.
+
+* Desenvolvimento de aplicações web responsivas com Next.js e TypeScript;
+* Criação de interfaces modernas com React, Tailwind CSS e Bootstrap;
+* Implementação de autenticação, permissões, APIs e bancos de dados;
+* Integração com Firebase, Supabase, Google Maps e Mercado Pago;
+* Deploy e gerenciamento de aplicações na Vercel;
+* Uso de Git e GitHub para versionamento e organização de projetos;
+* Configuração de serviços, APIs e credenciais pelo Google Cloud Console;
+* Manutenção de computadores, notebooks e sistemas operacionais.
 
 ---
 
-## 🛠️ Tecnologias
+## 🚀 Projetos em destaque
 
-<div align="center">
+### 🏓 Plataforma de Torneios de Tênis de Mesa
 
-### 🌐 Front-End
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+🔗 [Acessar projeto](https://plataforma-tenis-de-mesa.vercel.app/)
 
----
+Sistema para gerenciamento de torneios, atletas, clubes, categorias, partidas, rankings e resultados.
 
-### ⚙️ Back-End
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+**Tecnologias:** `Next.js` `TypeScript` `Firebase` `Tailwind CSS` `Vercel`
+
+* Cadastro de atletas, clubes, organizadores e torneios;
+* Controle de categorias, inscrições, partidas e resultados;
+* Geração de grupos, chaveamentos e eliminatórias;
+* Registro de sets, ranking e histórico de competições;
+* Dashboards para atletas, clubes e organizadores;
+* Estrutura preparada para notificações, relatórios e expansão.
 
 ---
 
-### 🗄️ Banco de Dados
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+### 🛵 Pará Motos
+
+🔗 [Acessar projeto](https://para-motos-web-app.vercel.app/mvp.html)
+
+Plataforma para gestão de corridas de mototáxi, conectando passageiros, mototaxistas e administradores.
+
+**Tecnologias:** `Next.js` `TypeScript` `Firebase` `Mercado Pago` `Google Maps` `Tailwind CSS`
+
+* Autenticação para passageiro, motorista e administrador;
+* Solicitação e acompanhamento de corridas;
+* Atualização de status em tempo real;
+* Integração com pagamentos PIX via Mercado Pago;
+* Painel administrativo para aprovação e monitoramento;
+* Estrutura preparada para notificações e localização em tempo real.
 
 ---
 
-### 🔧 Hardware & Sistemas Embarcados
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+### 🤖 Projetos IoT e Sistemas Embarcados
+
+**Tecnologias:** `Arduino` `ESP32` `Raspberry Pi` `C/C++` `Bluetooth` `Sensores`
+
+* Robô seguidor de linha;
+* Monitor cardíaco com comunicação Bluetooth;
+* Projetos de automação, robótica e monitoramento;
+* Protótipos para educação tecnológica e Espaço Maker;
+* Integração entre hardware, sensores e sistemas digitais.
 
 ---
 
-### ☁️ Cloud, DevOps & CI/CD
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=gitlab&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+### 📱 Aplicações Mobile
+
+**Tecnologias:** `React Native` `Expo` `TypeScript` `Firebase`
+
+* Desenvolvimento de aplicativos multiplataforma;
+* Criação de interfaces mobile responsivas;
+* Integração com autenticação, banco de dados e notificações;
+* Estruturação de projetos para Android e futuras versões para iOS.
 
 ---
 
-### 🔌 APIs & Pagamentos
-<img src="https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+## 🛠️ Stack principal
+
+### 🌐 Desenvolvimento Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### 📱 Desenvolvimento Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
+
+### ⚙️ Back-End e APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge\&logo=json\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+
+### 🗄️ Banco de Dados e BaaS
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+
+### ☁️ Cloud, Deploy e Ferramentas
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+
+### 🤖 IoT e Sistemas Embarcados
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
+
+### 🔌 Integrações
+
+![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge\&logo=mercadopago\&logoColor=white)
+![Firebase Cloud Messaging](https://img.shields.io/badge/Firebase_Cloud_Messaging-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Google Maps API](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge\&logo=googlemaps\&logoColor=white)
 
 ---
 
-### 🎮 Desenvolvimento de Jogos
-<img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white"/>
-<img src="https://img.shields.io/badge/Allegro-0A0A0A?style=for-the-badge"/>
+## 📚 Conhecimentos e boas práticas
 
----
-
-### 🔄 Versionamento & Ferramentas
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
----
-
-### 🧠 Metodologias & Boas Práticas
-<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOLID-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC-4CAF50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Design_Patterns-7952B3?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📚 Cursos e Certificações
-
-- Discover – Rocketseat (2024)  
-- C# – Jornada Dev (2025)  
-- Java Spring Boot – Rocketseat (2024)  
-- Informática Básica – Visual Cursos (2016)  
-- Informática Avançada – Visual Cursos (2017)  
+* Desenvolvimento Full Stack com Next.js e TypeScript;
+* Desenvolvimento de aplicativos com React Native e Expo;
+* APIs REST e integrações externas;
+* Firebase Authentication, Realtime Database, Firestore e Storage;
+* Supabase Auth, PostgreSQL e Row Level Security;
+* Controle de acesso, permissões e autenticação;
+* Git, GitHub e versionamento de código;
+* Deploy e hospedagem com Vercel;
+* Configuração de APIs e credenciais no Google Cloud Console;
+* Responsividade, acessibilidade e experiência do usuário;
+* Internet das Coisas, sensores, automação e prototipagem;
+* Scrum, Kanban e organização de projetos.
 
 ---
 
 ## 🌍 Idiomas
 
-- Português: Nativo  
-- Inglês: Intermediário  
+* 🇧🇷 Português — Nativo;
+* 🇺🇸 Inglês — Intermediário.
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioGTF&layout=compact&langs_count=8&hide=html,css&theme=radical&cache_seconds=1800" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=SergioGTF&layout=compact&langs_count=8&hide=html,css&theme=radical&cache_seconds=1800" alt="Linguagens mais utilizadas" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SergioGTF&show_icons=true&count_private=true&theme=radical&cache_seconds=1800" alt="Estatísticas do GitHub" />
 </p>
+
 ---
 
 ## 🌐 Contato
 
-<div align="center">
-
-[Portfólio](https://sergiogtf.github.io/Novo-portfolio/) ·
-[LinkedIn](https://www.linkedin.com/in/sergio-gabriel-tavares-farias-624775268/) ·
-[GitHub](https://github.com/SergioGTF) ·
-[E-mail](mailto:sergiogabrieltf@gmail.com)
-
-</div>
+* 🌍 [Portfólio](https://www.sergiogabrieltf.com.br/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/sergio-gabriel-tavares-farias-624775268/)
+* 💻 [GitHub](https://github.com/SergioGTF)
+* 📧 [sergiogabrieltf@gmail.com](mailto:sergiogabrieltf@gmail.com)
